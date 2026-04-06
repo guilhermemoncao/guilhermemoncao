@@ -1,5 +1,5 @@
 # Olá, eu sou Guilherme Oliveira 👋
-🛡️ Analista de Infraestrutura de Redes
+🛡️ Analista de Segurança da Informação
 
    Especialista em segurança da informação com foco em infraestrutura, monitoramento e defesa cibernética.
    Experiência com Linux, redes, análise de tráfego, hardening e detecção de ameaças.
